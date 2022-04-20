@@ -56,11 +56,11 @@ const config = {
             label: 'Components',
           },
           // { to: '/blog', label: 'Docs', position: 'left' },
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          {
+            href: 'https://github.com/Hegi29/rl-ui-kit-hegi',
+            label: 'GitHub',
+            position: 'right',
+          }
         ],
       },
       footer: {

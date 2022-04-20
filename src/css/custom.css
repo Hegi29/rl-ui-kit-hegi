@@ -52,6 +52,10 @@ body {
     padding: 0 var(--ifm-pre-padding);
 }
 
+.navbar__item {
+    display: contents;
+}
+
 [data-theme='dark'] .docusaurus-highlight-code-line {
     background-color: rgba(0, 0, 0, 0.3);
 }
