@@ -4,10 +4,10 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 
 <div>
   <p align="center">
-    <img src="img/logo radya digital.png" width="800"> 
+    <img src="./static/img/logo radya digital.png" width="800"> 
   </p>
-    <p align="center">
-    <img src="img/logo radya group.png" width="800"> 
+  <p align="center">
+    <img src="./static/img/logo radya group.png" width="800"> 
   </p>
 </div>
 
