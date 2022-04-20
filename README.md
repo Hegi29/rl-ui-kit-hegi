@@ -24,4 +24,7 @@ UI Kit part Hegi :
 <p align="center">
   <img src="https://img.shields.io/badge/-react%20js-blue" />
   <img src="https://img.shields.io/badge/-docusaurus-green"/>
+  <img src="https://img.shields.io/badge/-radyalabs-blue" />
+  <img src="https://img.shields.io/badge/-ui%20kit-orange" />
+  <img src="https://img.shields.io/badge/-hegi-red" />
 </p>
