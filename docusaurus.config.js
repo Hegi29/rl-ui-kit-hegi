@@ -43,7 +43,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'RL UI Kit',
+        title: 'Hegi',
         logo: {
           alt: 'Radya Digital Logo',
           src: 'img/logo RL.png',
@@ -106,7 +106,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} radyalabs.`,
+        copyright: `Copyright © ${new Date().getFullYear()} hegi x radyalabs.`,
       },
       prism: {
         theme: lightCodeTheme,

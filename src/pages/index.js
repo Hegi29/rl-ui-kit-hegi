@@ -12,7 +12,8 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">RL {siteConfig.title}</h1>
+        {/* <h1 className="hero__title">RL {siteConfig.title}</h1> */}
+        <h1 className='hero__title'>HEGI KIT PARTS</h1>
         {/* <p className="hero__subtitle">{siteConfig.tagline}</p> */}
         <p>A design system for enterprise-level products. Create an efficient and enjoyable work experience.</p>
         <div className={styles.buttons}>
