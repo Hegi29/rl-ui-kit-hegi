@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Intro
 
-Bagian Hegi ada 8 Component :
+I've 8 parts, that's :
 
 - Alert
 - Drawer
